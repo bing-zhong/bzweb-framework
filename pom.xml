@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.abing</groupId>
-    <artifactId>bing-springboot-init</artifactId>
+    <artifactId>bzweb-framework</artifactId>
     <version>1.0.0</version>
-    <name>bing-springboot-init</name>
-    <description>bing-springboot-init</description>
+    <name>bzweb-framework</name>
+    <description>bzweb-framework</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
